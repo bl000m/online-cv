@@ -136,7 +136,7 @@ certifications:
           credentialurl:
           credentialname: 
           details: |
-              (formation financée par le CNRS)
+            (formation financée par le CNRS)
             - Formation approfondie en Kubernetes, mettant l'accent sur l'architecture et les composants essentiels tels que Kubelet, Master Node et etcd.
             - Pratique de l'installation et de la configuration de clusters Kubernetes dans divers environnements avec des outils comme kubeadm, Kubespray et Kops.
             - Maîtrise des bonnes pratiques pour la gestion des pods, des conteneurs et des ReplicaSets, ainsi que des services Kubernetes et du service discovery.
@@ -152,6 +152,22 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
+            (formation financée par le CNRS)
+        - name: Architecture des systèmes d’information réseaux - RNCP 7 (bac +5)
+          start: 2023
+          end: septembre 2024
+          organization: 42 Lyon Auvergne-Rhône-Alpes
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+            Post tronc commun (le plus haut niveau de spécialisation de l’école 42)
+          - Créer des logiciels qui vont manipuler les fondamentaux d’un système d’exploitation au travers d’une interface
+          - Utiliser de la programmation parallèle et concurrentielle
+          - Réaliser un projet d’architecture réseaux
+          - Mettre en place une architecture réseau I.P. grâce à une compréhension et application correctes des principes de connexion entre machines
+          - Configurer un système d’exploitation
+          - Assurer une sécurité informatique au sein de sa structure
 
 projects:
     title: Projects
