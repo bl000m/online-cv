@@ -3,9 +3,9 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    position: left # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Mathia Pagani
@@ -58,7 +58,7 @@ career-profile:
     title: Career Profile
     summary: |
       - 👨‍💻 Développeur trilingue passionné par la simplification des complexités et la production de code propre et responsable
-      - sDepuis 2010, j'ai créé des applications, principalement en intégration de projets transverses et variés. 
+      - Depuis 2010, j'ai créé des applications, principalement en intégration de projets transverses et variés. 
       - Il y a quelques années, je suis retourné sur les bancs de l'école, à 42, pour me spécialiser en Architecture des systèmes d’information réseaux. 
       - 🧑‍🎓 Toujours en apprentissage.
 education:
@@ -137,13 +137,12 @@ certifications:
           credentialname: 
           details: |
             (formation financée par le CNRS)
-            - Formation approfondie en Kubernetes, mettant l'accent sur l'architecture et les composants essentiels tels que Kubelet, Master Node et etcd.
-            - Pratique de l'installation et de la configuration de clusters Kubernetes dans divers environnements avec des outils comme kubeadm, Kubespray et Kops.
-            - Maîtrise des bonnes pratiques pour la gestion des pods, des conteneurs et des ReplicaSets, ainsi que des services Kubernetes et du service discovery.
-            - Expérience dans l'implémentation de stratégies de déploiement avancées et l'exposition d'applications, y compris l'utilisation d'Ingress et de LoadBalancer.
-            - Connaissance approfondie de la gestion du stockage persistant et des volumes, notamment des Persistent Volumes et des Claims.
-            - Compétences avancées dans des outils tels que Prometheus pour la surveillance et Argocd pour le déploiement continu.
-            - Familiarité avec d'autres outils mentionnés dans la description, comme Helm, RBAC, StatefulSets et Network Policies, pour une administration avancée du cluster Kubernetes.
+           tagline: "Formation approfondie en Kubernetes avec focus sur l'architecture 
+           (Kubelet, Master Node, etcd) et la configuration de clusters via kubeadm, 
+           Kubespray, Kops. Maîtrise de la gestion des pods, conteneurs, ReplicaSets, 
+           services, Ingress, LoadBalancer, et stockage persistant. 
+           Compétences avancées en surveillance (Prometheus) et déploiement continu (ArgoCD), 
+           ainsi qu'en outils Helm, RBAC, StatefulSets et Network Policies."
         - name: Linux
           start: 2024
           end: 2024
