@@ -249,82 +249,77 @@ skills:
         
     # IAM et Cybersécurité
     - name: IAM
-      level: 
+      level: 80%
     - name: OpenID
-      level: 
+      level: 80%
     - name: SAML
-      level: 
+      level: 80%
     - name: OAuth
-      level: 
-    - name: " "
-      level: 0%
+      level: 80%
+    
     # Orchestration et Gestion de Conteneurs
     - name: Kubernetes
-      level: 
+      level: 80%
     - name: Docker
-      level: 
+      level: 80%
     - name: Openshift
-      level: 
+      level: 80%
     - name: OpenStack
-      level: 
+      level: 80%
     - name: Puppet
-      level: 
+      level: 80%
     - name: iRODS
-      level: 
-    - name: " "
-      level: 0%
+      level: 80%
+    
     # CI/CD
     - name: CI/CD
-      level: 
+      level: 80%
     - name: GitLab
-      level: 
-    - name: " "
-      level: 0%
+      level: 80%
+    
     # Langages de Programmation
     - name: C
-      level: 
+      level: 60%
     - name: C++
-      level: 
+      level: 80%
     - name: Python
       level: 
-    - name: PHP & Symfony 6
-      level: 
-    - name: Ruby & Rails
-      level: 
+    - name: Symfony 6
+      level: 90%
+    - name: Ruby on Rails
+      level: 60%
     - name: Assembly language
-      level: 
-    - name: JavaScript & Next.js / Nest.js
-      level: 
-    - name: " "
-      level: 0%
+      level: 60%
+    - name: Next.js / Nest.js
+      level: 80%
+    
     # Bases de Données
     - name: SQL
-      level: 
+      level: 80%
     - name: PostgreSQL
-      level: 
+      level: 80%
     - name: Mariadb
-      level: 
+      level: 80% 
      # Front
     - name: Tailwind
-      level: 0%
+      level: 80% 
     - name: Bootstrap
-      level: 0%
+      level: 80% 
     - name: ""
-      level: 0%
+      level: 80% 
     # Outils de Débogage
     - name: GDB
-      level: 
+      level: 60% 
     - name: Wireshark
-      level: 
-    - name: " "
-      level: 0%
+      level: 60% 
+    
     # Outils de Gestion de Projet
     - name: Figma
-      level: 
+      level: 90% 
     - name: Scrum
-      level: 
+      level: 80% 
     - name: Méthode Agile
-      level: 
+      level: 80% 
 
 
       # - name: Angular
@@ -337,7 +332,7 @@ skills:
       #   level: 85%
 
       # - name: Sketch & Photoshop
-      #   level: 60%
+      #   level: 6
 
 footer: >
     # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
