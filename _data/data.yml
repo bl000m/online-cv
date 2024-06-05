@@ -258,7 +258,8 @@ skills:
       level: 
     - name: Cyber sécurité
       level: 
-
+    - name: -------
+      level: 0%
     # Orchestration et Gestion de Conteneurs
     - name: Kubernetes
       level: 
