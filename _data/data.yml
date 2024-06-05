@@ -57,7 +57,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      👨‍💻 Développeur trilingue passionné par la simplification des complexités et la production de code propre et responsable, spécialisé en gestion des identités (IAM). Depuis 2010, j'ai créé des applications, principalement en intégration de projets transverses et variés. Il y a quelques années, je suis retourné sur les bancs de l'école, à 42, pour me spécialiser en Architecture des systèmes d’information réseaux. 🧑‍🎓 Toujours en apprentissage.
+      - 👨‍💻 Développeur trilingue passionné par la simplification des complexités et la production de code propre et responsable
+      - sDepuis 2010, j'ai créé des applications, principalement en intégration de projets transverses et variés. 
+      - Il y a quelques années, je suis retourné sur les bancs de l'école, à 42, pour me spécialiser en Architecture des systèmes d’information réseaux. 
+      - 🧑‍🎓 Toujours en apprentissage.
 education:
     title: Education
     info:
