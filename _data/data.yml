@@ -128,43 +128,30 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Kubernetes
+          start: 2024
+          end: 
+          organization: Sparks
+          credentialid: 
+          credentialurl:
+          credentialname: 
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
+              (formation financée par le CNRS)
+            - Formation approfondie en Kubernetes, mettant l'accent sur l'architecture et les composants essentiels tels que Kubelet, Master Node et etcd.
+            - Pratique de l'installation et de la configuration de clusters Kubernetes dans divers environnements avec des outils comme kubeadm, Kubespray et Kops.
+            - Maîtrise des bonnes pratiques pour la gestion des pods, des conteneurs et des ReplicaSets, ainsi que des services Kubernetes et du service discovery.
+            - Expérience dans l'implémentation de stratégies de déploiement avancées et l'exposition d'applications, y compris l'utilisation d'Ingress et de LoadBalancer.
+            - Connaissance approfondie de la gestion du stockage persistant et des volumes, notamment des Persistent Volumes et des Claims.
+            - Compétences avancées dans des outils tels que Prometheus pour la surveillance et Argocd pour le déploiement continu.
+            - Familiarité avec d'autres outils mentionnés dans la description, comme Helm, RBAC, StatefulSets et Network Policies, pour une administration avancée du cluster Kubernetes.
+        - name: Linux
+          start: 2024
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: Sparks
+          credentialid: 
+          credentialurl: 
+          credentialname: 
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
