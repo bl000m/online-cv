@@ -256,7 +256,7 @@ skills:
       level: 
     - name: OAuth
       level: 
-    - name: ""
+    - name: "."
       level: 0%
     # Orchestration et Gestion de Conteneurs
     - name: Kubernetes
@@ -271,14 +271,14 @@ skills:
       level: 
     - name: iRODS
       level: 
-    - name: ""
+    - name: "."
       level: 0%
     # CI/CD
     - name: CI/CD
       level: 
     - name: GitLab
       level: 
-    - name: ""
+    - name: "."
       level: 0%
     # Langages de Programmation
     - name: C++
@@ -293,7 +293,7 @@ skills:
       level: 
     - name: JavaScript
       level: 
-    - name: ""
+    - name: "."
       level: 0%
     # Bases de Données
     - name: SQL
@@ -302,17 +302,17 @@ skills:
       level: 
     - name: Mariadb
       level: 
-    - name: ""
+    - name: "."
       level: 0%
     # Outils de Débogage
     - name: GDB
       level: 
-    - name: ""
+    - name: "."
       level: 0%
     # Outils de Gestion de Projet
     - name: JIRA
       level: 
-    - name: ""
+    - name: "."
       level: 0%
     # Méthodologies Agiles
     - name: Scrum
