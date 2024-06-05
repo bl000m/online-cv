@@ -248,8 +248,12 @@ skills:
     toolset:
         
     # IAM et Cybersécurité
+    - name: Problem solving
+      level: 100%
+    - name: Learning new languages and tools
+      level: 100%  
     - name: IAM
-      level: 80%
+      level: 90%
     - name: OpenID
       level: 80%
     - name: SAML
@@ -261,7 +265,7 @@ skills:
     - name: Kubernetes
       level: 80%
     - name: Docker
-      level: 80%
+      level: 90%
     - name: Openshift
       level: 80%
     - name: OpenStack
@@ -315,7 +319,7 @@ skills:
     - name: Figma
       level: 90% 
     - name: Scrum
-      level: 80% 
+      level: 90% 
     - name: Méthode Agile
       level: 80% 
 
