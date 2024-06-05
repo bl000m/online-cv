@@ -240,11 +240,75 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: PHP & Symfony
-        level: 98%
+        
+    # IAM et Cybersécurité
+    - name: IAM
+      level: 
+    - name: OpenID
+      level: 
+    - name: SAML
+      level: 
+    - name: OAuth
+      level: 
+    - name: Cyber sécurité
+      level: 
 
-      - name: IAM
-        level: 98%
+    # Orchestration et Gestion de Conteneurs
+    - name: Kubernetes
+      level: 
+    - name: Docker
+      level: 
+    - name: Openshift
+      level: 
+    - name: OpenStack
+      level: 
+    - name: Puppet
+      level: 
+    - name: iRODS
+      level: 
+
+    # CI/CD
+    - name: CI/CD
+      level: 
+    - name: GitLab
+      level: 
+
+    # Langages de Programmation
+    - name: C++
+      level: 
+    - name: Python
+      level: 
+    - name: PHP
+      level: 
+    - name: Ruby
+      level: 
+    - name: Assembly language
+      level: 
+    - name: JavaScript
+      level: 
+
+    # Bases de Données
+    - name: SQL
+      level: 
+    - name: PostgreSQL
+      level: 
+    - name: Mariadb
+      level: 
+
+    # Outils de Débogage
+    - name: GDB
+      level: 
+
+    # Outils de Gestion de Projet
+    - name: JIRA
+      level: 
+
+    # Méthodologies Agiles
+    - name: Scrum
+      level: 
+    - name: Méthode Agile
+      level: 
+
 
       # - name: Angular
       #   level: 98%
