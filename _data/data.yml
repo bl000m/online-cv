@@ -153,30 +153,30 @@ certifications:
           credentialname: 
           details: |
             (formation financée par le CNRS)
-        - name: Architecture des systèmes d’information réseaux
-          start: 2023
-          end: 2024
-          organization: 42 Lyon Auvergne-Rhône-Alpes
-          credentialid: 
-          credentialurl: 
-          credentialname: 
-          details: |
-            Post tronc commun (le plus haut niveau de spécialisation de l’école 42)
-          - Créer des logiciels qui vont manipuler les fondamentaux d’un système d’exploitation au travers d’une interface
-          - Utiliser de la programmation parallèle et concurrentielle
-          - Réaliser un projet d’architecture réseaux
-          - Mettre en place une architecture réseau I.P. grâce à une compréhension et application correctes des principes de connexion entre machines
-          - Configurer un système d’exploitation
-          - Assurer une sécurité informatique au sein de sa structure
-        - name: Full Stack Web Developer -  RNCP 6 (bac +3)
-        start: 2022
-        end: 2022
-        organization: Le Wagon Lyon
-        credentialid: 
-        credentialurl: 
-        credentialname: 
-        details: |
-          Le Wagon est un bootcamp de codage de neuf semaines en France qui forme des entrepreneurs et des professionnels à développer des applications web complexes en équipe, en utilisant une pédagogie pratique. Les diplômés ont une solide compréhension des technologies web actuelles et sont appréciés pour leur esprit entrepreneurial, leur créativité et leur travail d'équipe.
+        # - name: Architecture des systèmes d’information réseaux
+        #   start: 2023
+        #   end: 2024
+        #   organization: 42 Lyon Auvergne-Rhône-Alpes
+        #   credentialid: 
+        #   credentialurl: 
+        #   credentialname: 
+        #   details: |
+        #     Post tronc commun (le plus haut niveau de spécialisation de l’école 42)
+        #   - Créer des logiciels qui vont manipuler les fondamentaux d’un système d’exploitation au travers d’une interface
+        #   - Utiliser de la programmation parallèle et concurrentielle
+        #   - Réaliser un projet d’architecture réseaux
+        #   - Mettre en place une architecture réseau I.P. grâce à une compréhension et application correctes des principes de connexion entre machines
+        #   - Configurer un système d’exploitation
+        #   - Assurer une sécurité informatique au sein de sa structure
+        # - name: Full Stack Web Developer -  RNCP 6 (bac +3)
+        # start: 2022
+        # end: 2022
+        # organization: Le Wagon Lyon
+        # credentialid: 
+        # credentialurl: 
+        # credentialname: 
+        # details: |
+        #   Le Wagon est un bootcamp de codage de neuf semaines en France qui forme des entrepreneurs et des professionnels à développer des applications web complexes en équipe, en utilisant une pédagogie pratique. Les diplômés ont une solide compréhension des technologies web actuelles et sont appréciés pour leur esprit entrepreneurial, leur créativité et leur travail d'équipe.
 
 
 # projects:
