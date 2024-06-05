@@ -103,9 +103,13 @@ experiences:
     info:
       - role: Software developer / DevSecOps
         time: Sept. 2023 - Poste actuel
-        company: CNRS - Datacenter (Nucléaire & Particules)
+        company: CNRS - Datacenter IN2P3 (Nucléaire & Particules)
         details: |
-          Gestion des identités (IAM) avec une spécialisation dans les plateformes Indigo IAM et Keycloak pour le Single Sign-On. Maîtrise des protocoles SAML et OIDC pour l'authentification et l'autorisation. Intégration de l'API iRODS en C++ pour faciliter l'accès HTTP à la virtualisation du stockage. Parallèlement, conception et développement d'une plateforme Symfony pour optimiser l'accès aux données produites par les infrastructures de recherche dans les domaines de la physique de particules, entre le supercalculateur Idris et le centre de calcul de l'in2p3. Responsable de l'architecture, de l'implémentation et de l'optimisation continue.
+          - Gestion des identités (IAM) avec une spécialisation dans les plateformes Indigo IAM et Keycloak pour le Single Sign-On. 
+          - Maîtrise des protocoles SAML et OIDC pour l'authentification et l'autorisation. 
+          - Intégration de l'API iRODS en C++ pour faciliter l'accès HTTP à la virtualisation du stockage. 
+          - Conception et développement d'une plateforme Symfony pour optimiser l'accès aux données produites par les infrastructures de recherche dans les domaines de la physique de particules, entre le supercalculateur Idris et le centre de calcul de l'in2p3. 
+          - Responsable de l'architecture, de l'implémentation et de l'optimisation continue.
       - role: Software developer
         time: 2022 - 2023
         company: Freelance
