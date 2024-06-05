@@ -153,7 +153,7 @@ certifications:
           credentialname: 
           details: |
             (formation financée par le CNRS)
-        - name: RNCP 7 (bac +5) Architecture des systèmes d’information réseaux
+        - name: Architecture des systèmes d’information réseaux
           start: 2023
           end: 2024
           organization: 42 Lyon Auvergne-Rhône-Alpes
