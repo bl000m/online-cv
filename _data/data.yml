@@ -287,7 +287,7 @@ skills:
       level: 
     - name: Python
       level: 
-    - name: PHP & Symfony
+    - name: PHP & Symfony 6
       level: 
     - name: Ruby & Rails
       level: 
@@ -304,7 +304,12 @@ skills:
       level: 
     - name: Mariadb
       level: 
-    - name: " "
+     # Front
+    - name: Tailwind
+      level: 0%
+    - name: Bootstrap
+      level: 0%
+    - name: ""
       level: 0%
     # Outils de Débogage
     - name: GDB
@@ -314,7 +319,7 @@ skills:
     - name: " "
       level: 0%
     # Outils de Gestion de Projet
-    - name: JIRA
+    - name: Figma
       level: 
     - name: Scrum
       level: 
