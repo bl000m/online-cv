@@ -13,45 +13,45 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: mathiapagani@gmail.com
+    phone: 0778527747
+    timezone: 
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website:  #do not add http://
+    linkedin: mathiapagani
+    xing: 
+    github: bl000m
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       title: Languages
       info:
-        - idiom: English
-          level: Native
+        - idiom: Français
+          level: courant
 
-        - idiom: French
-          level: Professional
+        - idiom: Anglais
+          level: courant
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Italien
+          level: langue maternelle
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Aikido
           link:
 
-        - item: Snowboarding
+        - item: Tai Chi
           link:
 
-        - item: Cooking
+        - item: Jogging
           link:
 
 career-profile:
