@@ -80,12 +80,17 @@ education:
         time: 2022 - 2023
         details: |
 
-      - degree: Full Stack Web Developer -  RNCP 6 (bac +3)
+      - degree: Developpement Full Stack -  RNCP 6 (bac +3)
         university: Le Wagon Lyon
         time: 2021 - 2022
         details: |
-          Le Wagon est un bootcamp de codage de neuf semaines en France qui forme des entrepreneurs et des professionnels à développer des applications web complexes en équipe, en utilisant une pédagogie pratique. Les diplômés ont une solide compréhension des technologies web actuelles et sont appréciés pour leur esprit entrepreneurial, leur créativité et leur travail d'équipe.
-          
+          Bootcamp intensif de neuf semaines axé sur la méthode agile. 
+          Formation en développement d'applications web complexes en équipe, 
+          avec maîtrise de divers outils et technologies (Ruby on Rails) 
+          de la conception à la mise en production. 
+          Acquisition d'une solide compréhension des technologies web actuelles, 
+          avec un esprit entrepreneurial, créatif et axé sur le travail d'équipe.
+
       - degree: Arts Admin and Management (bac +5)
         university: MAC (Trentino School of Management)
         time: 2008 - 2009
