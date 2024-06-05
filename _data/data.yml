@@ -102,7 +102,7 @@ education:
         details: |
 
 experiences:
-    title: Experiences
+    title: Recent Experiences
     info:
       - role: Software developer / DevSecOps
         time: Sept. 2023 - Poste actuel
@@ -141,13 +141,13 @@ certifications:
           credentialurl:
           credentialname: 
           details: |
-            (formation financée par le CNRS)
             Formation approfondie en Kubernetes avec focus sur l'architecture 
             (Kubelet, Master Node, etcd) et la configuration de clusters via kubeadm, 
             Kubespray, Kops. Maîtrise de la gestion des pods, conteneurs, ReplicaSets, 
             services, Ingress, LoadBalancer, et stockage persistant. 
             Compétences avancées en surveillance (Prometheus) et déploiement continu (ArgoCD), 
             ainsi qu'en outils Helm, RBAC, StatefulSets et Network Policies.
+            (formation financée par le CNRS)
         - name: Linux
           start: 
           end: 
@@ -156,6 +156,7 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
+            Formation Linux intensive couvrant les fondamentaux et les compétences avancées en administration système.
             (formation financée par le CNRS)
         # - name: Architecture des systèmes d’information réseaux
         #   start: 2023
