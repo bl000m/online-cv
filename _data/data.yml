@@ -250,8 +250,10 @@ skills:
     # IAM et Cybersécurité
     - name: Problem solving
       level: 100%
-    - name: Learning new languages and tools
+    - name: Learning new tech
       level: 100%  
+    - name: Team and project first
+      level: 100%   
     - name: IAM
       level: 90%
     - name: OpenID
@@ -296,6 +298,8 @@ skills:
       level: 70%
     - name: Next.js / Nest.js
       level: 70%
+    - name: API Rest
+      level: 100%  
     
     # Bases de Données
     - name: SQL
