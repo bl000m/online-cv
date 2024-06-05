@@ -217,7 +217,7 @@ oss:
       
     contributions:
       - title: iRODS api http
-        link: "#"
+        link: "https://github.com/irods/irods_client_http_api/pull/253"
         tagline: "Création d'une brique API en C++ pour se connecter à iRODS via OpenID en mode Protected Ressources (OpenID)"
 
 # publications:
