@@ -135,7 +135,7 @@ certifications:
       list:
         - name: Kubernetes
           start: 
-          end: 2024
+          end: 
           organization: Sparks
           credentialid: 
           credentialurl:
@@ -149,8 +149,8 @@ certifications:
             Compétences avancées en surveillance (Prometheus) et déploiement continu (ArgoCD), 
             ainsi qu'en outils Helm, RBAC, StatefulSets et Network Policies.
         - name: Linux
-          start: 2024
-          end: 2024
+          start: 
+          end: 
           organization: Sparks
           credentialid: 
           credentialurl: 
