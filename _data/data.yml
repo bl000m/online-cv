@@ -64,7 +64,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: RNCP 7 (bac +5) Architecture des systèmes d’information réseaux
+      - degree: Architecture des systèmes d’information réseaux - RNCP 7 (bac +5) 
         university: 42 Lyon Auvergne-Rhône-Alpes
         time: 2023 - 2024
         details: |
@@ -80,7 +80,7 @@ education:
         time: 2022 - 2023
         details: |
 
-      - degree: Full-Stack Web Developer -  RNCP niveau 6 (bac +3)
+      - degree: Full Stack Web Developer -  RNCP 6 (bac +3)
         university: Le Wagon Lyon
         time: 2021 - 2022
         details: |
