@@ -63,7 +63,7 @@ education:
     info:
       - degree: RNCP 7 (bac +5) Architecture des systèmes d’information réseaux
         university: 42 Lyon Auvergne-Rhône-Alpes
-        time: 2023-2024
+        time: 2023 - 2024
         details: |
           Post tronc commun (le plus haut niveau de spécialisation de l’école 42)
           - Créer des logiciels qui vont manipuler les fondamentaux d’un système d’exploitation au travers d’une interface
@@ -72,36 +72,40 @@ education:
           - Mettre en place une architecture réseau I.P. grâce à une compréhension et application correctes des principes de connexion entre machines
           - Configurer un système d’exploitation
           - Assurer une sécurité informatique au sein de sa structure
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Expert en architecture informatique - tronc commun
+        university: 42 Lyon Auvergne-Rhône-Alpes
+        time: 2022 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
+      - degree: Full-Stack Web Developer -  RNCP niveau 6 (bac +3)
+        university: Le Wagon Lyon
+        time: 2021 - 2022
+        details: |
+
+      - degree: Full-Stack Web Developer -  RNCP niveau 6 (bac +3)
+        university: Le Wagon Lyon
+        time: 2021 - 2022
+        details: |
+          Le Wagon est un bootcamp de codage de neuf semaines en France qui forme des entrepreneurs et des professionnels à développer des applications web complexes en équipe, en utilisant une pédagogie pratique. Les diplômés ont une solide compréhension des technologies web actuelles et sont appréciés pour leur esprit entrepreneurial, leur créativité et leur travail d'équipe.
+          
+      - degree: Arts Admin and Management (bac +5)
+        university: MAC (Trentino School of Management)
+        time: 2008 - 2009
+        details: |
+
+      - degree: Histoire Contemporaine (bac + 3)
+        university: Università degli studi di Milano
+        time: 2008 - 2009
+        details: |
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Software developer / DevSecOps
+        time: Sept. 2023 - Poste actuel
+        company: CNRS - Datacenter (Nucléaire & Particules)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Gestion des identités (IAM) avec une spécialisation dans les plateformes Indigo IAM et Keycloak pour le Single Sign-On. Maîtrise des protocoles SAML et OIDC pour l'authentification et l'autorisation. Intégration de l'API iRODS en C++ pour faciliter l'accès HTTP à la virtualisation du stockage. Parallèlement, conception et développement d'une plateforme Symfony pour optimiser l'accès aux données produites par les infrastructures de recherche dans les domaines de la physique de particules, entre le supercalculateur Idris et le centre de calcul de l'in2p3. Responsable de l'architecture, de l'implémentation et de l'optimisation continue.
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
