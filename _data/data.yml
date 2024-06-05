@@ -61,17 +61,17 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: RNCP 7 (bac +5) Architecture des systèmes d’information réseaux
+        university: 42 Lyon Auvergne-Rhône-Alpes
+        time: 2023-2024
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Post tronc commun (le plus haut niveau de spécialisation de l’école 42)
+          - Créer des logiciels qui vont manipuler les fondamentaux d’un système d’exploitation au travers d’une interface
+          - Utiliser de la programmation parallèle et concurrentielle
+          - Réaliser un projet d’architecture réseaux
+          - Mettre en place une architecture réseau I.P. grâce à une compréhension et application correctes des principes de connexion entre machines
+          - Configurer un système d’exploitation
+          - Assurer une sécurité informatique au sein de sa structure
       - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011
