@@ -137,12 +137,12 @@ certifications:
           credentialname: 
           details: |
             (formation financée par le CNRS)
-           tagline: "Formation approfondie en Kubernetes avec focus sur l'architecture 
-           (Kubelet, Master Node, etcd) et la configuration de clusters via kubeadm, 
-           Kubespray, Kops. Maîtrise de la gestion des pods, conteneurs, ReplicaSets, 
-           services, Ingress, LoadBalancer, et stockage persistant. 
-           Compétences avancées en surveillance (Prometheus) et déploiement continu (ArgoCD), 
-           ainsi qu'en outils Helm, RBAC, StatefulSets et Network Policies."
+            Formation approfondie en Kubernetes avec focus sur l'architecture 
+            (Kubelet, Master Node, etcd) et la configuration de clusters via kubeadm, 
+            Kubespray, Kops. Maîtrise de la gestion des pods, conteneurs, ReplicaSets, 
+            services, Ingress, LoadBalancer, et stockage persistant. 
+            Compétences avancées en surveillance (Prometheus) et déploiement continu (ArgoCD), 
+            ainsi qu'en outils Helm, RBAC, StatefulSets et Network Policies.
         - name: Linux
           start: 2024
           end: 2024
